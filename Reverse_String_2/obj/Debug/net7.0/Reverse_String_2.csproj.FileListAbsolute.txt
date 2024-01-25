@@ -1,0 +1,15 @@
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/bin/Debug/net7.0/Reverse_String_2
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/bin/Debug/net7.0/Reverse_String_2.deps.json
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/bin/Debug/net7.0/Reverse_String_2.runtimeconfig.json
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/bin/Debug/net7.0/Reverse_String_2.dll
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/bin/Debug/net7.0/Reverse_String_2.pdb
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/Reverse_String_2.csproj.AssemblyReference.cache
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/Reverse_String_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/Reverse_String_2.AssemblyInfoInputs.cache
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/Reverse_String_2.AssemblyInfo.cs
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/Reverse_String_2.csproj.CoreCompileInputs.cache
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/Reverse_String_2.dll
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/refint/Reverse_String_2.dll
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/Reverse_String_2.pdb
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/Reverse_String_2.genruntimeconfig.cache
+/Users/ugochukwumaduakor/Projects/Reverse_String_2/Reverse_String_2/obj/Debug/net7.0/ref/Reverse_String_2.dll
